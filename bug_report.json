@@ -1,6 +1,6 @@
-{ 
- Description: "Не активны кнопки социальных сетей “Facebook” и  “Twitter”  при нажатии на них в футере главной страницы сайта",
- Steps to reproduse: "Открыть сайт http://sp1.iteatester.com, Нажать на кнопку социальной сети “Facebook”,Нажать на кнопку социальной сети  “Twitter” ",
- Actual result:"Перезагрузка главной страницы сайта",
- Expected result:"Открывается страница входа на “Facebook” и “Twitter” ",
-}
+{"bugreport":[ 
+	{"Description": "Не активны кнопки социальных сетей “Facebook” и  “Twitter”  при нажатии на них в футере главной страницы сайта"},
+	{"Steps to reproduse": "Открыть сайт http://sp1.iteatester.com, Нажать на кнопку социальной сети “Facebook”,Нажать на кнопку социальной сети  “Twitter”"},
+	{"Actual result":"Перезагрузка главной страницы сайта"},
+	{"Expected result":"Открывается страница входа на “Facebook” и “Twitter”"}
+]}
