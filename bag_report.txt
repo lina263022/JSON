@@ -1,0 +1,12 @@
+Bug id 1
+Summary: Laptops are in the drop down list of products in the main menu of the site products when choosing a category Electronics subcategories MOBILE.
+
+Severity: minor
+Priority: medium
+
+Steps to reproduce:
+1.Open a web site  http://sp1.iteatester.com ;
+2.In the main menu of the site, select the subcategory Mobile a category Electronics;
+Actual result: there are laptops in the product dropdown list;  
+Expected result: there are only  laptops in the product dropdown list
+
